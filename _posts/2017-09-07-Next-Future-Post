@@ -1,6 +1,0 @@
----
-layout: post
-title: Future Post Afer Updating Config
----
-
-Updated config with `future: false` to see if it hides future posts.
