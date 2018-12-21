@@ -5,7 +5,7 @@ published: true
 tags: Magic
 ---
 
-__(I wrote this a few months ago, but for some reason never finished/posted it.  Here it is now in all its incomplete glory.)__
+_(I wrote this a few months ago, but for some reason never finished/posted it.  Here it is now in all its incomplete glory.)_
 
 Have WotC's hands been tied by the fact that Modern has been so successful that people will lose their collective minds if they were to introduce a new format?  Modern was introduced in 2011 and has sets going back to 2003, so eight years worth of sets.  It is now 2018, so seven years.  The Modern card pool has approxomately doubled in size since the formats introuction.
 
