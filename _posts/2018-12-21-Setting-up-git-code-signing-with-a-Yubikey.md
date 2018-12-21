@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Setting up git code signing with a Yubikey
+published: true
+tags: github yubikey
 ---
 
 So you got yourself your first [Yubikey](https://www.yubico.com/) and you want to use it to sign you git commits so that they are verifiably yours.  Where do you even begin?  This guide will help you setup your environment on Windows.
